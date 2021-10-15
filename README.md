@@ -9,3 +9,7 @@ Please refer to the official [Ministry of Health website's locations of interest
 ## Vaccine data
 
 The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine data releases](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data)
+
+## Forked by baronvertigovongrahamthesecondofsealand
+
+I am uses this data to produce this timeline chart. https://public.flourish.studio/visualisation/7423982/

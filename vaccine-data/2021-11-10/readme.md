@@ -3,9 +3,9 @@
 
 ## Notes:
 
-Numbers include all records entered as at 16/11/2021 11:59PM
+Numbers include all records entered as at 09/11/2021 11:59PM
 
-Date extracted 17/11/2021
+Date extracted 10/11/2021
 
 Data is based on records entered into CIR as at the time of data upload
 
